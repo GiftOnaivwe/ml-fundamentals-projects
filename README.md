@@ -36,15 +36,15 @@ These projects highlight strong foundations in statistics, supervised/unsupervis
 <br />
 📊 Results
 
-Achieved 85–92% accuracy on classification tasks (Logistic Regression, Decision Trees).<br />
-Delivered interpretable regression models with strong predictive power (Boston Housing R² > 0.80).<br />
-Produced visual insights that communicated statistical patterns clearly.<br />
+- Achieved 85–92% accuracy on classification tasks (Logistic Regression, Decision Trees).<br />
+- Delivered interpretable regression models with strong predictive power (Boston Housing R² > 0.80).<br />
+- Produced visual insights that communicated statistical patterns clearly.<br />
 
 <br />
 🚀 Future Improvements
 
-Add clustering methods (K-Means, Hierarchical Clustering). (on-going work)<br />
-Extend to time-series forecasting datasets (attrition, workforce trends).<br />
-Deploy models via Flask/FastAPI for interactive dashboards.<br />
-Integrate Power BI / Tableau visualizations for business-oriented insights. (on-going work)<br />
+- Add clustering methods (K-Means, Hierarchical Clustering). (on-going work)<br />
+- Extend to time-series forecasting datasets (attrition, workforce trends).<br />
+- Deploy models via Flask/FastAPI for interactive dashboards.<br />
+- Integrate Power BI / Tableau visualizations for business-oriented insights. (on-going work)<br />
 
