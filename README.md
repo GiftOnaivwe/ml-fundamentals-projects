@@ -9,10 +9,10 @@ These projects highlight strong foundations in statistics, supervised/unsupervis
 📂 Project List
 
 1 **Decision Tree – Diabetes Dataset**<br />
-  - Built a decision tree classifier to predict diabetes likelihood.<br />
+  - Built a decision tree classifier to predict diabetes likelihood.
   - Evaluated model using confusion matrix, precision, recall, and F1-score.
 2 **Logistic Regression – Breast Cancer Dataset**<br />
-  - Implemented binary classification with logistic regression.<br />
+  - Implemented binary classification with logistic regression.
   - Achieved ~90% accuracy and validated with ROC-AUC analysis.
 3 **Multiclass Logistic Regression – Iris Dataset**<br />
   - Trained and evaluated multiclass logistic regression for species prediction.<br />
