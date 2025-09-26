@@ -10,19 +10,19 @@ These projects highlight strong foundations in statistics, supervised/unsupervis
 
 1 **Decision Tree – Diabetes Dataset**<br />
   - Built a decision tree classifier to predict diabetes likelihood.<br />
-  - Evaluated model using confusion matrix, precision, recall, and F1-score.<br />
+  - Evaluated model using confusion matrix, precision, recall, and F1-score.
 2 **Logistic Regression – Breast Cancer Dataset**<br />
   - Implemented binary classification with logistic regression.<br />
-  - Achieved ~90% accuracy and validated with ROC-AUC analysis.<br />
+  - Achieved ~90% accuracy and validated with ROC-AUC analysis.
 3 **Multiclass Logistic Regression – Iris Dataset**<br />
   - Trained and evaluated multiclass logistic regression for species prediction.<br />
-  - Applied softmax outputs and cross-entropy loss.<br />
+  - Applied softmax outputs and cross-entropy loss.
 4 **Linear & Multilinear Regression – Boston Housing & Synthetic Data**<br />
   - Predicted housing prices with R² > 0.80.<br />
-  - Conducted residual analysis to assess model assumptions.<br />
+  - Conducted residual analysis to assess model assumptions.
 5 **Probability Distributions & Hypothesis Testing**<br />
   - Explored normal, binomial, and Poisson distributions.<br />
-  - Performed hypothesis testing to validate dataset patterns.<br />
+  - Performed hypothesis testing to validate dataset patterns.
 5 **TBP Analysis**<br />
   - Applied statistical inference and regression analysis to structured datasets.<br />
 
