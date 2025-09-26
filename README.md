@@ -28,10 +28,9 @@ These projects highlight strong foundations in statistics, supervised/unsupervis
 
 <br />
 🛠 Tech Stack
-
-Languages/Libraries: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn <br />
-Concepts: Regression, Classification, Decision Trees, Probability, Hypothesis Testing, EDA  <br />
-Workflow: Data cleaning → Feature engineering → Model training → Evaluation → Visualization <br /> 
+      - ***Languages/Libraries***: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn <br />
+      - ***Concepts***: Regression, Classification, Decision Trees, Probability, Hypothesis Testing, EDA  <br />
+      - ***Workflow***: Data cleaning → Feature engineering → Model training → Evaluation → Visualization <br /> 
 
 <br />
 📊 Results
